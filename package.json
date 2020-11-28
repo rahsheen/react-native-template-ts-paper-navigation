@@ -1,5 +1,5 @@
 {
-  "name": "react-native-template-typescript",
+  "name": "rn-paper-navigation-template",
   "version": "0.0.1",
   "description": "Clean and minimalist React Native template for a quick start with TypeScript.",
   "scripts": {
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emin93/react-native-template-typescript.git"
+    "url": "git+https://github.com/rahsheen/rn-paper-navigation-template.git"
   },
   "keywords": [
     "react-native",
@@ -20,10 +20,10 @@
     "template",
     "boilerplate"
   ],
-  "author": "Emin Khateeb <emin@emin.ch>",
+  "author": "Rahsheen Porter <hello@rah.codes>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/emin93/react-native-template-typescript/issues"
+    "url": "https://github.com/rahsheen/rn-paper-navigation-template/issues"
   },
-  "homepage": "https://github.com/emin93/react-native-template-typescript#readme"
+  "homepage": "https://github.com/rahsheen/rn-paper-navigation-template#readme"
 }
