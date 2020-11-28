@@ -1,7 +1,7 @@
 {
   "name": "rn-paper-navigation-template",
-  "version": "0.0.1",
-  "description": "Clean and minimalist React Native template for a quick start with TypeScript.",
+  "version": "0.0.2",
+  "description": "React Native template with Typescript, React Navigation, and React Native Paper.",
   "scripts": {
     "prepublishOnly": "npm --no-git-tag-version version $TRAVIS_TAG"
   },
