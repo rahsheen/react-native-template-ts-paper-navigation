@@ -1,5 +1,5 @@
 {
-  "name": "@rahsheen/react-native-template-ts-paper-navigation",
+  "name": "@rahsheen/rn-template-ts-paper-navigation",
   "version": "0.0.3",
   "description": "React Native template with Typescript, React Navigation, and React Native Paper.",
   "scripts": {

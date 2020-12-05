@@ -39,7 +39,7 @@
 ## :arrow_forward: Usage
 
 ```sh
-npx react-native init MyApp --template @rahsheen/react-native-template-ts-paper-navigation
+npx react-native init MyApp --template @rahsheen/rn-template-ts-paper-navigation
 ```
 
 ### Note on the legacy CLI
