@@ -1,13 +1,16 @@
 # :muscle: React Native Template TypeScript Paper Navigation
 
 <p>
+  <a href="https://travis-ci.org/rahsheen/react-native-template-ts-paper-navigation">
+    <img alt="Build Status" src="https://img.shields.io/travis/rahsheen/react-native-template-ts-paper-navigation.svg" target="_blank" />
+  </a>
   <a href="https://github.com/rahsheen/react-native-template-ts-paper-navigation#readme">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" target="_blank" />
   </a>
   <a href="https://github.com/rahsheen/react-native-template-ts-paper-navigation/graphs/commit-activity">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" target="_blank" />
   </a>
-  <a href="https://github.com/rahsheen/react-native-template-ts-paper-navigation/blob/main/LICENSE">
+  <a href="https://github.com/rahsheen/react-native-template-ts-paper-navigation/blob/master/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank" />
   </a>
 </p>
