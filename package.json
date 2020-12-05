@@ -1,6 +1,6 @@
 {
-  "name": "rn-paper-navigation-template",
-  "version": "0.0.2",
+  "name": "@rahsheen/rn-paper-navigation-template",
+  "version": "0.0.3",
   "description": "React Native template with Typescript, React Navigation, and React Native Paper.",
   "scripts": {
     "prepublishOnly": "npm --no-git-tag-version version $TRAVIS_TAG"
