@@ -1,5 +1,5 @@
 {
-  "name": "@rahsheen/rn-paper-navigation-template",
+  "name": "@rahsheen/react-native-template-ts-paper-navigation",
   "version": "0.0.3",
   "description": "React Native template with Typescript, React Navigation, and React Native Paper.",
   "scripts": {
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rahsheen/rn-paper-navigation-template.git"
+    "url": "git+https://github.com/rahsheen/react-native-template-ts-paper-navigation"
   },
   "keywords": [
     "react-native",
@@ -23,7 +23,7 @@
   "author": "Rahsheen Porter <hello@rah.codes>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rahsheen/rn-paper-navigation-template/issues"
+    "url": "https://github.com/rahsheen/react-native-template-ts-paper-navigation/issues"
   },
-  "homepage": "https://github.com/rahsheen/rn-paper-navigation-template#readme"
+  "homepage": "https://github.com/rahsheen/react-native-template-ts-paper-navigation/blob/main/README.md"
 }
