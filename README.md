@@ -1,4 +1,4 @@
-# :muscle::skin-tone-5: React Native Template TypeScript Paper Navigation
+# :muscle: React Native Template TypeScript Paper Navigation
 
 <p>
   <a href="https://travis-ci.org/@rahsheen/react-native-template-ts-paper-navigation">
